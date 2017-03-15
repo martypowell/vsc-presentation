@@ -18,7 +18,6 @@ I AM NOT SAYING YOU HAVE TO USE THIS TOOL OR SAYING IT'S BETTER THAN OTHER TOOLS
     * [ ]  Font Size
 3. Change Themes
 4. Adding an Extension
-    * [ ] Proxy needs to be setup
     * [ ] Add an Extension - JSON Prettify
     * [ ] View Extension Settings
 5. Show Features
