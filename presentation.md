@@ -16,7 +16,6 @@ I AM NOT SAYING YOU HAVE TO USE THIS TOOL OR SAYING IT'S BETTER THAN OTHER TOOLS
 1. Download and Install
 2. User Settings
     * [ ]  Font Size
-    * [ ]  Proxy
 3. Change Themes
 4. Adding an Extension
     * [ ] Proxy needs to be setup
